@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 200vh;
+}
+@font-face {
+    font-family: 'times';
+    src: url('../font/Times-new-roman-italic.ttf');
+  
+}
+@font-face {
+    font-family: 'ttlight';
+    src: url('../font/TTNorms-Light.otf');
+  
+}
+@font-face {
+    font-family: 'ttmedium';
+    src: url('../font/TTNorms-Medium.otf');
+  
+}
+@font-face {
+    font-family: 'ttregular';
+    src: url('../font/TTNorms-Regular.otf');
+  
+}
+.container{
+    width: 85%;
+    margin: 0 auto;
+}
